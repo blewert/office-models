@@ -7,6 +7,7 @@ This is a repository showcasing a collection of 3D models built by me, in blende
 | Book | `book.blend` | 	:heavy_check_mark: | :x: |
 | Cactus | `cactus.blend` | 	:heavy_check_mark: | :x: |
 | Laptop charger | `charger.blend` | 	:heavy_check_mark: | :x: |
+| Coffee machine | `coffee-machine.blend` | 	:heavy_check_mark: | :x: |
 | Conference chair | `conference-chair.blend` | 	:heavy_check_mark: | :x: |
 | Curved monitor | `curved-monitor.blend` | 	:heavy_check_mark: | :x: |
 | Desk chair | `desk-chair.blend` | 	:heavy_check_mark: | :x: |
@@ -18,6 +19,7 @@ This is a repository showcasing a collection of 3D models built by me, in blende
 | Magazine box file | `magazine-box-file.blend` | 	:heavy_check_mark: | :x: |
 | Mug | `mug.blend` | 	:heavy_check_mark: | :x: |
 | Notepad | `notepad.blend` | 	:heavy_check_mark: | :x: |
+| Noticeboard | `noticeboard.blend` | 	:heavy_check_mark: | :x: |
 | Pen pot | `pen-pot.blend` | 	:heavy_check_mark: | :x: |
 | Phone | `phone.blend` | 	:heavy_check_mark: | :x: |
 | Photo gallery book | `photo-gallery.blend` | 	:heavy_check_mark: | :x: |
