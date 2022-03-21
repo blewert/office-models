@@ -14,6 +14,7 @@ This is a repository showcasing a collection of 3D models built by me, in blende
 | Desk | `desk.blend` | 	:heavy_check_mark: | :x: |
 | Desktop machine | `desktop-machine.blend` | 	:heavy_check_mark: | :x: |
 | Frame | `frame.blend` | 	:heavy_check_mark: | :x: |
+| Glass | `glass.blend` | 	:heavy_check_mark: | :x: |
 | Kettle | `kettle.blend` | :heavy_check_mark: | :x: |
 | Keyboard | `keyboard.blend` | 	:heavy_check_mark: | :x: |
 | Laptop | `laptop.blend` | 	:heavy_check_mark: | :x: |
@@ -24,6 +25,7 @@ This is a repository showcasing a collection of 3D models built by me, in blende
 | Pen pot | `pen-pot.blend` | 	:heavy_check_mark: | :x: |
 | Phone | `phone.blend` | 	:heavy_check_mark: | :x: |
 | Photo gallery book | `photo-gallery.blend` | 	:heavy_check_mark: | :x: |
+| Printer | `printer.blend` | :heavy_check_mark: | :x: |
 | Shelves | `shelves.blend` | 	:heavy_check_mark: | :x: |
 | Spray bottle | `spray.blend` | 	:heavy_check_mark: | :x: |
 | Stapler | `stapler.blend` | 	:heavy_check_mark: | :x: |
