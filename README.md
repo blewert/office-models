@@ -14,6 +14,7 @@ This is a repository showcasing a collection of 3D models built by me, in blende
 | Desk | `desk.blend` | 	:heavy_check_mark: | :x: |
 | Desktop machine | `desktop-machine.blend` | 	:heavy_check_mark: | :x: |
 | Frame | `frame.blend` | 	:heavy_check_mark: | :x: |
+| Kettle | `kettle.blend` | :heavy_check_mark: | :x: |
 | Keyboard | `keyboard.blend` | 	:heavy_check_mark: | :x: |
 | Laptop | `laptop.blend` | 	:heavy_check_mark: | :x: |
 | Magazine box file | `magazine-box-file.blend` | 	:heavy_check_mark: | :x: |
