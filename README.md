@@ -5,8 +5,11 @@ This is a repository showcasing a collection of 3D models built by me, in blende
 | Model | File | Built? | Textured? |
 |-------|------|--------|-----------|
 | Book | `book.blend` | 	:heavy_check_mark: | :x: |
+| Bookshelf (low) | `bookshelf-low.blend` | 	:heavy_check_mark: | :x: |
+| Bookshelf (high) | `bookshelf-high.blend` | 	:heavy_check_mark: | :x: |
 | Cactus | `cactus.blend` | 	:heavy_check_mark: | :x: |
 | Laptop charger | `charger.blend` | 	:heavy_check_mark: | :x: |
+| Coat hooks | `coat-hooks.blend` | 	:heavy_check_mark: | :x: |
 | Coffee machine | `coffee-machine.blend` | 	:heavy_check_mark: | :x: |
 | Conference chair | `conference-chair.blend` | 	:heavy_check_mark: | :x: |
 | Curved monitor | `curved-monitor.blend` | 	:heavy_check_mark: | :x: |
